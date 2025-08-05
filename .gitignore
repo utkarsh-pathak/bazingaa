@@ -1,0 +1,135 @@
+# ---------------------
+# Python cache & build
+# ---------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+build/
+dist/
+develop-eggs/
+downloads/
+wheels/
+share/python-wheels/
+sdist/
+lib/
+lib64/
+parts/
+var/
+.installed.cfg
+MANIFEST
+.cache
+.coverage
+.coverage.*
+*.cover
+*.py.cover
+
+# ---------------------
+# Virtual Environments
+# ---------------------
+.env
+.env.*
+.venv/
+**/.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.pdm-python
+.pdm-build/
+.pixi
+
+# ---------------------
+# Dependency managers
+# ---------------------
+# Lock files (only ignore if you're building libraries)
+# pipenv
+# Pipfile.lock
+
+# poetry
+# poetry.lock
+# poetry.toml
+
+# pdm
+# pdm.lock
+# pdm.toml
+
+# uv
+# uv.lock
+
+# pixi
+# pixi.lock
+
+# ---------------------
+# Tool Caches & Logs
+# ---------------------
+.tox/
+.nox/
+.pytest_cache/
+.hypothesis/
+.dmypy.json
+.mypy_cache/
+.pyre/
+.pytype/
+nosetests.xml
+coverage.xml
+pip-log.txt
+pip-delete-this-directory.txt
+celerybeat-schedule
+celerybeat.pid
+
+# ---------------------
+# IDEs & Editors
+# ---------------------
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# ---------------------
+# Notebook / Docs / Static
+# ---------------------
+.ipynb_checkpoints/
+docs/_build/
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# ---------------------
+# Django / Flask
+# ---------------------
+*.log
+db.sqlite3
+db.sqlite3-journal
+local_settings.py
+instance/
+.webassets-cache
+
+# ---------------------
+# Others
+# ---------------------
+.pypirc
+.pybuilder/
+target/
+.scrapy/
+.site
+.ruff_cache/
+.cursorignore
+.cursorindexingignore
+.abstra/
+__pypackages__/
+

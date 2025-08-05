@@ -1,0 +1,31 @@
+/* frontend/src/background.css */
+@keyframes moveGrid {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 0 -100px;
+  }
+}
+
+body {
+  background-color: #0d1117;
+  position: relative;
+  overflow: hidden;
+}
+
+body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: 
+    linear-gradient(to bottom, #1e90ff 1px, transparent 1px),
+    linear-gradient(to right, #1e90ff 1px, transparent 1px);
+  background-size: 50px 50px;
+  opacity: 0.2;
+  z-index: -1;
+  animation: moveGrid 4s linear infinite;
+}

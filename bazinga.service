@@ -1,0 +1,13 @@
+[Unit]
+Description=Gunicorn instance to serve Bazinga
+After=network.target
+
+[Service]
+User=ec2-user
+Group=ec2-user
+WorkingDirectory=/opt/bazingaa/backend
+Environment="PATH=/opt/bazingaa/backend/.venv/bin"
+ExecStart=/opt/bazingaa/backend/.venv/bin/gunicorn -w 1 -k uvicorn.workers.UvicornWorker main:app --bind 0.0.0.0:8000
+
+[Install]
+WantedBy=multi-user.target

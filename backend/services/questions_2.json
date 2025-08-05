@@ -1,0 +1,642 @@
+{
+  "Weird History": [
+    {
+      "question_text": "In ancient Rome, what surprisingly effective weapon was sometimes used by soldiers?",
+      "correct_answer": "Giant flamingos"
+    },
+    {
+      "question_text": "What bizarre punishment was once meted out to those accused of witchcraft in colonial America?",
+      "correct_answer": "Ducking stool"
+    },
+    {
+      "question_text": "Which historical figure is rumored to have had a pet lion?",
+      "correct_answer": "King Henry VIII"
+    },
+    {
+      "question_text": "What unusual method did the ancient Egyptians use to preserve their dead?",
+      "correct_answer": "Evisceration"
+    },
+    {
+      "question_text": "Which city once held a bizarre annual event involving the throwing of tomatoes?",
+      "correct_answer": "Bu\u00f1ol, Spain"
+    },
+    {
+      "question_text": "In ancient Rome, what was the punishment for a son who killed his father?",
+      "correct_answer": "Being sewn into a sack with a dog, a rooster, a viper, and a monkey, and thrown into the sea."
+    },
+    {
+      "question_text": "What was the 'Great Stink' of London in 1858?",
+      "correct_answer": "A summer when the smell of untreated human waste in the River Thames was so bad it forced Parliament to take action."
+    },
+    {
+      "question_text": "Who was the first US president to have a telephone in the White House?",
+      "correct_answer": "Rutherford B. Hayes"
+    },
+    {
+      "question_text": "What was the original purpose of the Leaning Tower of Pisa?",
+      "correct_answer": "It was a bell tower for the nearby cathedral."
+    },
+    {
+      "question_text": "In the 19th century, what was 'Drapetomania' considered to be?",
+      "correct_answer": "A supposed mental illness that caused black slaves to flee captivity."
+    },
+    {
+      "question_text": "What was the 'War of the Oaken Bucket'?",
+      "correct_answer": "A dispute between two Italian city-states in 1325, supposedly started over a stolen bucket."
+    },
+    {
+      "question_text": "What was the 'dancing plague' of 1518?",
+      "correct_answer": "An event in Strasbourg where hundreds of people danced for days without rest, some to their deaths."
+    },
+    {
+      "question_text": "What was the 'Great Emu War' in Australia?",
+      "correct_answer": "A failed attempt by the Australian military to curb the emu population in 1932."
+    },
+    {
+      "question_text": "What was the 'Molasses Disaster' of 1919 in Boston?",
+      "correct_answer": "A massive storage tank of molasses burst, sending a wave of molasses through the streets at 35 mph."
+    },
+    {
+      "question_text": "Who was the first woman to run for President of the United States?",
+      "correct_answer": "Victoria Woodhull in 1872."
+    },
+    {
+      "question_text": "What was the 'Pig War' of 1859?",
+      "correct_answer": "A confrontation between the US and the British Empire over a pig that was shot on the San Juan Islands."
+    },
+    {
+      "question_text": "What was the 'Ketchup as a Vegetable' controversy?",
+      "correct_answer": "A proposal by the Reagan administration in the 1980s to cut costs on school lunches by reclassifying ketchup as a vegetable."
+    },
+    {
+      "question_text": "What was the 'Great Moon Hoax' of 1835?",
+      "correct_answer": "A series of six articles in the New York Sun newspaper claiming the discovery of life on the moon."
+    },
+    {
+      "question_text": "What was the 'Year Without a Summer' in 1816?",
+      "correct_answer": "A year of severe climate abnormalities that caused global temperatures to decrease, leading to food shortages across the Northern Hemisphere."
+    },
+    {
+      "question_text": "What was the 'War of the Stray Dog'?",
+      "correct_answer": "A 1925 incident in which a Greek soldier was shot after crossing the border into Bulgaria while chasing his dog, leading to a brief war."
+    }
+  ],
+  "Movie Trivia": [
+    {
+      "question_text": "What is the highest-grossing film of all time when adjusted for inflation?",
+      "correct_answer": "Gone with the Wind"
+    },
+    {
+      "question_text": "Which movie was the first to be rated PG-13?",
+      "correct_answer": "Red Dawn (1984)"
+    },
+    {
+      "question_text": "What is the name of the fictional brand of cigarettes smoked by many characters in Quentin Tarantino's films?",
+      "correct_answer": "Red Apple"
+    },
+    {
+      "question_text": "In 'The Matrix', what is the name of the ship captained by Morpheus?",
+      "correct_answer": "The Nebuchadnezzar"
+    },
+    {
+      "question_text": "What was the first feature-length animated movie ever released?",
+      "correct_answer": "Snow White and the Seven Dwarfs"
+    },
+    {
+      "question_text": "In 'Pulp Fiction', what is in the mysterious briefcase?",
+      "correct_answer": "It's never revealed."
+    },
+    {
+      "question_text": "What is the name of the hotel in 'The Shining'?",
+      "correct_answer": "The Overlook Hotel"
+    },
+    {
+      "question_text": "What is the name of the velociraptor in 'Jurassic Park' that is the 'big one'?",
+      "correct_answer": "The Big One"
+    },
+    {
+      "question_text": "What is the name of the fictional African country in 'Black Panther'?",
+      "correct_answer": "Wakanda"
+    },
+    {
+      "question_text": "What is the name of the computer in '2001: A Space Odyssey'?",
+      "correct_answer": "HAL 9000"
+    },
+    {
+      "question_text": "What is the name of the bar in 'Inglourious Basterds' where the final shootout takes place?",
+      "correct_answer": "La Louisiane"
+    },
+    {
+      "question_text": "What is the name of the fictional city where 'RoboCop' is set?",
+      "correct_answer": "Detroit"
+    },
+    {
+      "question_text": "What is the name of the fictional news network in 'Anchorman: The Legend of Ron Burgundy'?",
+      "correct_answer": "Channel 4 News"
+    },
+    {
+      "question_text": "What is the name of the fictional airline in 'Airplane!'?",
+      "correct_answer": "Trans American Airlines"
+    },
+    {
+      "question_text": "What is the name of the fictional company that created the dinosaurs in 'Jurassic Park'?",
+      "correct_answer": "InGen"
+    }
+  ],
+  "Strange Science": [
+    {
+      "question_text": "What is the 'Lazarus effect'?",
+      "correct_answer": "The spontaneous return of circulation in a person after failed attempts at resuscitation."
+    },
+    {
+      "question_text": "What is the 'Pygmalion effect'?",
+      "correct_answer": "A psychological phenomenon where high expectations lead to improved performance in a given area."
+    },
+    {
+      "question_text": "What is the 'Baader-Meinhof phenomenon'?",
+      "correct_answer": "The illusion in which a word, a name, or other thing that has just come to one's attention seems to appear with improbable frequency afterwards."
+    },
+    {
+      "question_text": "What is the 'Mpemba effect'?",
+      "correct_answer": "The observation that hot water can freeze faster than cold water under certain conditions."
+    },
+    {
+      "question_text": "What is the 'placebo effect'?",
+      "correct_answer": "A beneficial effect produced by a placebo drug or treatment, which cannot be attributed to the properties of the placebo itself, and must therefore be due to the patient's belief in that treatment."
+    },
+    {
+      "question_text": "What is the 'nocebo effect'?",
+      "correct_answer": "A detrimental effect on health produced by psychological or psychosomatic factors such as negative expectations of treatment or prognosis."
+    },
+    {
+      "question_text": "What is the 'Dunning-Kruger effect'?",
+      "correct_answer": "A cognitive bias in which people with low ability at a task overestimate their ability."
+    },
+    {
+      "question_text": "What is the 'Mandela effect'?",
+      "correct_answer": "A collective misremembering of a specific fact or event."
+    },
+    {
+      "question_text": "What is the 'observer effect'?",
+      "correct_answer": "The disturbance of an observed system by the act of observation."
+    },
+    {
+      "question_text": "What is the 'butterfly effect'?",
+      "correct_answer": "The sensitive dependence on initial conditions in which a small change in one state of a deterministic nonlinear system can result in large differences in a later state."
+    },
+    {
+      "question_text": "What is the 'Hawthorne effect'?",
+      "correct_answer": "The alteration of behavior by the subjects of a study due to their awareness of being observed."
+    },
+    {
+      "question_text": "What is the 'Coriolis effect'?",
+      "correct_answer": "An effect whereby a mass moving in a rotating system experiences a force acting perpendicular to the direction of motion and to the axis of rotation."
+    },
+    {
+      "question_text": "What is the 'Doppler effect'?",
+      "correct_answer": "The change in frequency of a wave in relation to an observer who is moving relative to the wave source."
+    },
+    {
+      "question_text": "What is the 'Gibbs-Donnan effect'?",
+      "correct_answer": "A name for the behavior of charged particles near a semi-permeable membrane that they sometimes fail to distribute evenly across the two sides of the membrane."
+    },
+    {
+      "question_text": "What is the 'Peltier effect'?",
+      "correct_answer": "The heating or cooling of an electrified junction of two different conductors."
+    }
+  ],
+  "Pop Culture": [
+    {
+      "question_text": "What is the name of the coffee shop in the sitcom 'Friends'?",
+      "correct_answer": "Central Perk"
+    },
+    {
+      "question_text": "Who is the best-selling musical artist of all time?",
+      "correct_answer": "The Beatles"
+    },
+    {
+      "question_text": "What is the name of the fictional city where 'The Simpsons' is set?",
+      "correct_answer": "Springfield"
+    },
+    {
+      "question_text": "What is the name of the fictional social media platform in the TV show 'Black Mirror'?",
+      "correct_answer": "Smithereen"
+    },
+    {
+      "question_text": "What is the name of the fictional currency in the video game 'Fortnite'?",
+      "correct_answer": "V-Bucks"
+    },
+    {
+      "question_text": "What is the name of the fictional planet where 'Star Wars' is set?",
+      "correct_answer": "Tatooine"
+    },
+    {
+      "question_text": "What is the name of the fictional school in the 'Harry Potter' series?",
+      "correct_answer": "Hogwarts"
+    },
+    {
+      "question_text": "What is the name of the fictional company that owns the 'Jurassic Park' theme park?",
+      "correct_answer": "InGen"
+    },
+    {
+      "question_text": "What is the name of the fictional city where 'Batman' is set?",
+      "correct_answer": "Gotham City"
+    },
+    {
+      "question_text": "What is the name of the fictional newspaper where Clark Kent works?",
+      "correct_answer": "The Daily Planet"
+    },
+    {
+      "question_text": "What is the name of the fictional company that makes the 'iPhones' in the TV show 'The Office'?",
+      "correct_answer": "Dunder Mifflin"
+    },
+    {
+      "question_text": "What is the name of the fictional social media platform in the movie 'The Social Network'?",
+      "correct_answer": "Facebook"
+    },
+    {
+      "question_text": "What is the name of the fictional video game in the movie 'Ready Player One'?",
+      "correct_answer": "The OASIS"
+    },
+    {
+      "question_text": "What is the name of the fictional company that makes the 'Androids' in the movie 'Blade Runner'?",
+      "correct_answer": "The Tyrell Corporation"
+    },
+    {
+      "question_text": "What is the name of the fictional city where 'The Wire' is set?",
+      "correct_answer": "Baltimore"
+    }
+  ],
+  "Useless Facts": [
+    {
+      "question_text": "What is the only letter that does not appear in any US state name?",
+      "correct_answer": "Q"
+    },
+    {
+      "question_text": "What is the collective noun for a group of flamingos?",
+      "correct_answer": "A flamboyance"
+    },
+    {
+      "question_text": "What is the only mammal capable of true flight?",
+      "correct_answer": "The bat"
+    },
+    {
+      "question_text": "What is the only planet in our solar system that rotates on its side?",
+      "correct_answer": "Uranus"
+    },
+    {
+      "question_text": "What is the only food that never spoils?",
+      "correct_answer": "Honey"
+    },
+    {
+      "question_text": "What is the only bird that can fly backwards?",
+      "correct_answer": "The hummingbird"
+    },
+    {
+      "question_text": "What is the only continent that is in all four hemispheres?",
+      "correct_answer": "Africa"
+    },
+    {
+      "question_text": "What is the only number that has its letters in alphabetical order?",
+      "correct_answer": "Forty"
+    },
+    {
+      "question_text": "What is the only word in the English language that has three consecutive double letters?",
+      "correct_answer": "Bookkeeper"
+    },
+    {
+      "question_text": "What is the only animal that can't jump?",
+      "correct_answer": "The elephant"
+    },
+    {
+      "question_text": "What is the only fruit that has its seeds on the outside?",
+      "correct_answer": "The strawberry"
+    },
+    {
+      "question_text": "What is the only country that is also a continent?",
+      "correct_answer": "Australia"
+    },
+    {
+      "question_text": "What is the only US state that is a peninsula?",
+      "correct_answer": "Florida"
+    },
+    {
+      "question_text": "What is the only US state that has a one-syllable name?",
+      "correct_answer": "Maine"
+    },
+    {
+      "question_text": "What is the only US state that has a name that is also a verb?",
+      "correct_answer": "Washington"
+    }
+  ],
+  "Mythology": [
+    {
+      "question_text": "In Greek mythology, who was the god of wine and revelry?",
+      "correct_answer": "Dionysus"
+    },
+    {
+      "question_text": "In Norse mythology, what is the name of the world tree?",
+      "correct_answer": "Yggdrasil"
+    },
+    {
+      "question_text": "In Egyptian mythology, who was the god of the underworld?",
+      "correct_answer": "Osiris"
+    },
+    {
+      "question_text": "In Roman mythology, who was the god of war?",
+      "correct_answer": "Mars"
+    },
+    {
+      "question_text": "In Hindu mythology, who is the god of destruction?",
+      "correct_answer": "Shiva"
+    },
+    {
+      "question_text": "In Japanese mythology, who is the goddess of the sun?",
+      "correct_answer": "Amaterasu"
+    },
+    {
+      "question_text": "In Chinese mythology, who is the god of wealth?",
+      "correct_answer": "Caishen"
+    },
+    {
+      "question_text": "In Aztec mythology, who was the god of the sun and war?",
+      "correct_answer": "Huitzilopochtli"
+    },
+    {
+      "question_text": "In Inca mythology, who was the god of the sun?",
+      "correct_answer": "Inti"
+    },
+    {
+      "question_text": "In Mayan mythology, who was the god of creation?",
+      "correct_answer": "Itzamna"
+    },
+    {
+      "question_text": "In Celtic mythology, who was the god of the sea?",
+      "correct_answer": "Manannan mac Lir"
+    },
+    {
+      "question_text": "In Slavic mythology, who was the god of thunder and lightning?",
+      "correct_answer": "Perun"
+    },
+    {
+      "question_text": "In Finnish mythology, who was the god of the sky and thunder?",
+      "correct_answer": "Ukko"
+    },
+    {
+      "question_text": "In Mesopotamian mythology, who was the goddess of love, war, and fertility?",
+      "correct_answer": "Ishtar"
+    },
+    {
+      "question_text": "In Aboriginal mythology, what is the 'Dreamtime'?",
+      "correct_answer": "The 'time before time', a period during which the world was formed and the first humans were created."
+    }
+  ],
+  "Food and Drink": [
+    {
+      "question_text": "What is the most expensive spice in the world by weight?",
+      "correct_answer": "Saffron"
+    },
+    {
+      "question_text": "What is the main ingredient in the Japanese drink 'sake'?",
+      "correct_answer": "Rice"
+    },
+    {
+      "question_text": "What is the national dish of Spain?",
+      "correct_answer": "Paella"
+    },
+    {
+      "question_text": "What is the most consumed manufactured drink in the world?",
+      "correct_answer": "Tea"
+    },
+    {
+      "question_text": "What is the most popular fruit in the world?",
+      "correct_answer": "The tomato"
+    },
+    {
+      "question_text": "What is the most popular cheese in the world?",
+      "correct_answer": "Mozzarella"
+    },
+    {
+      "question_text": "What is the most popular type of coffee bean?",
+      "correct_answer": "Arabica"
+    },
+    {
+      "question_text": "What is the most popular type of pasta?",
+      "correct_answer": "Spaghetti"
+    },
+    {
+      "question_text": "What is the most popular type of beer?",
+      "correct_answer": "Lager"
+    },
+    {
+      "question_text": "What is the most popular type of wine?",
+      "correct_answer": "Red wine"
+    },
+    {
+      "question_text": "What is the most popular type of spirit?",
+      "correct_answer": "Vodka"
+    },
+    {
+      "question_text": "What is the most popular type of chocolate?",
+      "correct_answer": "Milk chocolate"
+    },
+    {
+      "question_text": "What is the most popular type of nut?",
+      "correct_answer": "The almond"
+    },
+    {
+      "question_text": "What is the most popular type of bread?",
+      "correct_answer": "White bread"
+    },
+    {
+      "question_text": "What is the most popular type of rice?",
+      "correct_answer": "White rice"
+    }
+  ],
+  "Video Games": [
+    {
+      "question_text": "What is the best-selling video game of all time?",
+      "correct_answer": "Minecraft"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Legend of Zelda' series?",
+      "correct_answer": "Link"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Super Mario' series?",
+      "correct_answer": "Mario"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Sonic the Hedgehog' series?",
+      "correct_answer": "Sonic"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Pac-Man' series?",
+      "correct_answer": "Pac-Man"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Donkey Kong' series?",
+      "correct_answer": "Donkey Kong"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Mega Man' series?",
+      "correct_answer": "Mega Man"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Metroid' series?",
+      "correct_answer": "Samus Aran"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Castlevania' series?",
+      "correct_answer": "Simon Belmont"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Final Fantasy' series?",
+      "correct_answer": "Cloud Strife"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Metal Gear Solid' series?",
+      "correct_answer": "Solid Snake"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Resident Evil' series?",
+      "correct_answer": "Chris Redfield"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Street Fighter' series?",
+      "correct_answer": "Ryu"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'Mortal Kombat' series?",
+      "correct_answer": "Liu Kang"
+    },
+    {
+      "question_text": "What is the name of the main character in the 'God of War' series?",
+      "correct_answer": "Kratos"
+    }
+  ],
+  "Animal Kingdom": [
+    {
+      "question_text": "What is the only mammal that can't jump?",
+      "correct_answer": "The elephant"
+    },
+    {
+      "question_text": "What is the only bird that can fly backwards?",
+      "correct_answer": "The hummingbird"
+    },
+    {
+      "question_text": "What is the only continent that is in all four hemispheres?",
+      "correct_answer": "Africa"
+    },
+    {
+      "question_text": "What is the only number that has its letters in alphabetical order?",
+      "correct_answer": "Forty"
+    },
+    {
+      "question_text": "What is the only word in the English language that has three consecutive double letters?",
+      "correct_answer": "Bookkeeper"
+    },
+    {
+      "question_text": "What is the only animal that can't jump?",
+      "correct_answer": "The elephant"
+    },
+    {
+      "question_text": "What is the only fruit that has its seeds on the outside?",
+      "correct_answer": "The strawberry"
+    },
+    {
+      "question_text": "What is the only country that is also a continent?",
+      "correct_answer": "Australia"
+    },
+    {
+      "question_text": "What is the only US state that is a peninsula?",
+      "correct_answer": "Florida"
+    },
+    {
+      "question_text": "What is the only US state that has a one-syllable name?",
+      "correct_answer": "Maine"
+    },
+    {
+      "question_text": "What is the only US state that has a name that is also a verb?",
+      "correct_answer": "Washington"
+    },
+    {
+      "question_text": "What is the largest animal on Earth?",
+      "correct_answer": "The blue whale"
+    },
+    {
+      "question_text": "What is the fastest land animal?",
+      "correct_answer": "The cheetah"
+    },
+    {
+      "question_text": "What is the tallest animal in the world?",
+      "correct_answer": "The giraffe"
+    },
+    {
+      "question_text": "What is the largest bird in the world?",
+      "correct_answer": "The ostrich"
+    }
+  ],
+  "World Geography": [
+    {
+      "question_text": "What is the only country that is also a continent?",
+      "correct_answer": "Australia"
+    },
+    {
+      "question_text": "What is the only US state that is a peninsula?",
+      "correct_answer": "Florida"
+    },
+    {
+      "question_text": "What is the only US state that has a one-syllable name?",
+      "correct_answer": "Maine"
+    },
+    {
+      "question_text": "What is the only US state that has a name that is also a verb?",
+      "correct_answer": "Washington"
+    },
+    {
+      "question_text": "What is the largest country in the world by area?",
+      "correct_answer": "Russia"
+    },
+    {
+      "question_text": "What is the most populous country in the world?",
+      "correct_answer": "China"
+    },
+    {
+      "question_text": "What is the longest river in the world?",
+      "correct_answer": "The Nile"
+    },
+    {
+      "question_text": "What is the largest desert in the world?",
+      "correct_answer": "The Antarctic Polar Desert"
+    },
+    {
+      "question_text": "What is the highest mountain in the world?",
+      "correct_answer": "Mount Everest"
+    },
+    {
+      "question_text": "What is the largest ocean in the world?",
+      "correct_answer": "The Pacific Ocean"
+    },
+    {
+      "question_text": "What is the largest lake in the world?",
+      "correct_answer": "The Caspian Sea"
+    },
+    {
+      "question_text": "What is the largest island in the world?",
+      "correct_answer": "Greenland"
+    },
+    {
+      "question_text": "What is the largest waterfall in the world?",
+      "correct_answer": "Angel Falls"
+    },
+    {
+      "question_text": "What is the largest canyon in the world?",
+      "correct_answer": "The Grand Canyon"
+    },
+    {
+      "question_text": "What is the largest reef in the world?",
+      "correct_answer": "The Great Barrier Reef"
+    }
+  ]
+}
